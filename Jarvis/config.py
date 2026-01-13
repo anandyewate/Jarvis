@@ -2,8 +2,8 @@
 import os
 
 # API Keys
-GEMINI_API_KEY = "AIzaSyCuJwU42RKcWToFkGRyxSQGfS5uyNzWpps"
-NEWS_API_KEY = "d694d72b936e487db0303531e3f769fe"
+GEMINI_API_KEY = "API"
+NEWS_API_KEY = "API"
 
 # Speech Recognition Settings
 ENERGY_THRESHOLD = 1000
@@ -138,4 +138,5 @@ LANGUAGE_KEYWORDS = {
     "kannada": "kn", "कन्नड़": "kn", "கன்னடம்": "kn", "కన్నడ": "kn", "কন্নড়": "kn",
     "malayalam": "ml", "मलयालम": "ml", "மலையாளம்": "ml", "మలయాళం": "ml", "মলয়ালম": "ml",
     "punjabi": "pa", "पंजाबी": "pa", "பஞ்சாபி": "pa", "పంజాబీ": "pa", "পাঞ্জাবি": "pa"
+
 }
